@@ -1,8 +1,11 @@
-# 🛒 Urban Grocers - QA Project
+# 🛒 Urban Grocers - QA Academic Project
 
-## Project Overview
+## About the Project
 
-Urban Grocers is an online grocery application. This project focused on requirements analysis and test design to ensure the application met the expected business and functional requirements.
+This academic project was completed as part of the TripleTen QA Engineering Bootcamp.
+
+The objective was to practice software testing techniques by analyzing requirements, designing test cases, applying test design methods, and documenting defects for an online grocery application.
+
 ## Project Scope
 
 The project focused on validating the quality of an online grocery application by analyzing business requirements, designing test cases, and applying software testing techniques to improve test coverage.
@@ -22,13 +25,30 @@ The project focused on validating the quality of an online grocery application b
 - Validation documentation
 ## Activities Performed
 
+- Requirements analysis
+- Test case design
+- Functional testing
+- API validation
+- Bug reporting
+- Test documentation
+## Project Summary
+
+During this project I:
+
 - Analyzed functional requirements
-- Designed test cases
+- Designed manual test cases
 - Applied Equivalence Partitioning
 - Applied Boundary Value Analysis
-- Documented test scenarios
-- Prepared validation documentation
+- Validated business rules
+- Documented software defects
+- Produced QA documentation following testing best practices
+## Project Results
 
+- ✅ 61 test cases designed and executed
+- ✅ 20 bug reports documented
+- ✅ Functional requirements analyzed
+- ✅ Test design techniques applied
+- ✅ QA documentation created
 ## Test Design Techniques
 
 - Equivalence Partitioning
